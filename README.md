@@ -1,11 +1,15 @@
 #                                                        Projet NFC : Gestion des absences :
 
-Réalisé par :
+##Réalisé par :
 
 Argane Hamza
+
 Dadda Farouk
+
 El garti Fatima
+
 Sedyame Hamza 
+
 Ismail Hajjam
 
 
