@@ -11,5 +11,6 @@ L’application écris dans un tag vierge l’id de l’étudiant auquel il appa
 L'application lis le contenu du tag de chaque étudiant, et ainsi chaque étudiant ayant badgé est noté présent dans la liste d'absence.
 
 # III. Technologies utilisées :
-Le développement de l'application a été  fait en Android native , la partie base de donnée est assurée par Firebase .![1_R4c8lHBHuH5qyqOtZb3h-w](https://user-images.githubusercontent.com/101510983/214884267-d8a5d6d6-f166-4b22-98ad-b8b167094b01.png)
+Le développement de l'application a été  fait en Android native , la partie base de donnée est assurée par Firebase .
 ![0_KMNMu-xZGVXh-_zZ](https://user-images.githubusercontent.com/101510983/214884276-ec8d4b31-5d68-4e62-afb6-258e98b3f16d.png)
+![png-clipart-android-studio-integrated-development-environment-java-mobile-app-development-android-logo-mobile-app-development](https://user-images.githubusercontent.com/101510983/214884732-b66353f7-2e4d-4f92-a72d-415a0e5c3d6e.png)
