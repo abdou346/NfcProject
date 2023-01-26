@@ -1,23 +1,4 @@
 #                                                        Projet NFC : Gestion des absences :
-- [I. Contexte :](#i-contexte--)
-- [II. Application :](#ii-application--)
-  * [1. Ecriture :](#1-ecriture--)
-  * [2. Lecture :](#2-lecture--)
-- [III. Technologies utilisées :](#iii-technologies-utilis-es--)
-
-## Réalisé par :
-
-Argane Hamza
-
-Dadda Farouk
-
-El garti Fatima
-
-Sedyame Hamza 
-
-Hajjam Ismail
-
-
 
 
 - [I. Contexte :](#i-contexte--)
@@ -25,6 +6,12 @@ Hajjam Ismail
   * [1. Ecriture :](#1-ecriture--)
   * [2. Lecture :](#2-lecture--)
 - [III. Technologies utilisées :](#iii-technologies-utilis-es--)
+
+
+
+
+
+
 
 
 
@@ -43,3 +30,16 @@ Le développement de l'application a été  fait en Android native , la partie b
 
 ![firebase-ar21](https://user-images.githubusercontent.com/101510983/214885026-af818c8f-768c-4b3d-b608-9ed4c45b7d2e.svg)
 ![icons8-android-studio-48](https://user-images.githubusercontent.com/101510983/214885361-bd9cce07-749f-4c0b-b509-477ec0cf2fe4.png)
+
+
+## Réalisé par :
+
+Argane Hamza
+
+Dadda Farouk
+
+El garti Fatima
+
+Sedyame Hamza 
+
+Hajjam Ismail
