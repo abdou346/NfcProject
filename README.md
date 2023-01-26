@@ -12,5 +12,5 @@ L'application lis le contenu du tag de chaque étudiant, et ainsi chaque étudia
 
 # III. Technologies utilisées :
 Le développement de l'application a été  fait en Android native , la partie base de donnée est assurée par Firebase .
-![0_KMNMu-xZGVXh-_zZ](https://user-images.githubusercontent.com/101510983/214884276-ec8d4b31-5d68-4e62-afb6-258e98b3f16d.png)
-![png-clipart-android-studio-integrated-development-environment-java-mobile-app-development-android-logo-mobile-app-development](https://user-images.githubusercontent.com/101510983/214884732-b66353f7-2e4d-4f92-a72d-415a0e5c3d6e.png)
+![firebase-ar21](https://user-images.githubusercontent.com/101510983/214885026-af818c8f-768c-4b3d-b608-9ed4c45b7d2e.svg)
+![icons8-android-studio-48](https://user-images.githubusercontent.com/101510983/214885361-bd9cce07-749f-4c0b-b509-477ec0cf2fe4.png)
