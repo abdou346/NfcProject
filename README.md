@@ -21,9 +21,15 @@ L'application mobile de gestion d'absence des étudiants  est conçue pour simpl
 
 # II. Application :
 ## 1. Ecriture :
+
+![ecriture](https://user-images.githubusercontent.com/101510983/215272457-4c438864-a7a6-48e7-a8f6-66f1b89cc7b3.jpeg)
+
+
 L’application écris dans un tag vierge l’id de l’étudiant auquel il appartient , chaque etudiant ayant un enregistrement dans la base de donnée.
 
 ## 2. Lecture :
+![lecture](https://user-images.githubusercontent.com/101510983/215272492-d0d3d4ff-dde3-4ca3-bf12-6426b58c9cef.jpeg)
+
 L'application lis le contenu du tag de chaque étudiant, et ainsi chaque étudiant ayant badgé est noté présent dans la liste d'absence.
 
 # III. Technologies utilisées :
