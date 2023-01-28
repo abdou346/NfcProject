@@ -20,6 +20,10 @@
 L'application mobile de gestion d'absence des étudiants  est conçue pour simplifier le processus de suivi des absences dans une école ou une université. Elle utilise la technologie NFC pour permettre aux étudiants de marquer leur présence en utilisant leur tag NFC. Lorsqu'un étudiant arrive en classe, il peut simplement passer son tag NFC devant un smartphone. L'application enregistre automatiquement la présence de l'étudiant et met à jour son dossier d'absence. Les enseignants peuvent également utiliser l'application pour voir les absences de chaque étudiant, et pour suivre les tendances d'absentéisme dans leur classe.
 
 # II. Application :
+## Interface :
+
+![interface](https://user-images.githubusercontent.com/101510983/215272640-3163371b-15ad-48df-a0f3-6bad509afdaa.jpeg)
+
 ## 1. Ecriture :
 
 ![ecriture](https://user-images.githubusercontent.com/101510983/215272457-4c438864-a7a6-48e7-a8f6-66f1b89cc7b3.jpeg)
@@ -37,6 +41,11 @@ Le développement de l'application a été  fait en Android native , la partie b
 
 ![firebase-ar21](https://user-images.githubusercontent.com/101510983/214885026-af818c8f-768c-4b3d-b608-9ed4c45b7d2e.svg)
 ![icons8-android-studio-48](https://user-images.githubusercontent.com/101510983/214885361-bd9cce07-749f-4c0b-b509-477ec0cf2fe4.png)
+ 
+ # IV. Demonstration :
+
+https://user-images.githubusercontent.com/101510983/215272676-de501cac-b155-47fc-8c0b-79ecbe8bef55.MOV
+
 
 
 ## Réalisé par :
